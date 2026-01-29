@@ -1,0 +1,8 @@
+{
+    "cash": 18376.96,
+    "stocks": {
+        "603679.SS": {"name": "华体科技", "strategy": "TREND", "shares": 2600.0, "cost": 16.384},
+        "000762.SZ": {"name": "西藏矿业", "strategy": "GRID", "shares": 700.0, "cost": 28.797},
+        "603667.SS": {"name": "五洲新春", "strategy": "GRID", "shares": 0.0, "cost": 0.0}
+    }
+}
